@@ -18,6 +18,9 @@ status-website:
   name: Trydex Uptime
   introTitle: "Статус сервера Trydex"
   introMessage: 
+  theme: dark
+  favicon: https://raw.githubusercontent.com/f5ociety/Trydex/master/searx/static/themes/simple/img/favicon.png
+  faviconSvg: https://raw.githubusercontent.com/f5ociety/Trydex/master/searx/static/themes/simple/img/favicon.svg
   navbar:
     - title: Главная
       href: https://trydex.tk
