@@ -1,10 +1,12 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: f5ociety # Your GitHub organization or username, where this repository lives
+repo: trydex_uptime # The name of this repository
 
 sites:
   - name: Google
     url: https://www.google.com
+  - name: Trydex
+    url: https://trydex.tk
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
@@ -15,8 +17,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: status.trydex.tk
+  baseUrl: /trydex_uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
