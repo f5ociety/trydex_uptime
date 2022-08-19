@@ -15,14 +15,12 @@ status-website:
   # cname: status.trydex.tk
   baseUrl: /trydex_uptime
   logoUrl: https://raw.githubusercontent.com/f5ociety/Trydex/master/src/brand/searxng-wordmark.svg
-  name: Upptime
+  name: Trydex Uptime
   introTitle: "Статус сервера Trydex"
   introMessage: 
   navbar:
     - title: Главная
       href: https://trydex.tk
-    - title: Статус
-      href: /trydex_uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
