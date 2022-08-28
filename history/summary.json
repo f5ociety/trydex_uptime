@@ -4,17 +4,19 @@
     "url": "https://trydex.tk",
     "icon": "https://favicons.githubusercontent.com/trydex.tk",
     "slug": "trydex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3230,
-    "timeDay": 5574,
-    "timeWeek": 3448,
-    "timeMonth": 3230,
-    "timeYear": 3230,
-    "dailyMinutesDown": {}
+    "time": 3374,
+    "timeDay": 5694,
+    "timeWeek": 3744,
+    "timeMonth": 3374,
+    "timeYear": 3374,
+    "dailyMinutesDown": {
+      "2022-08-28": 0
+    }
   }
 ]
